@@ -7,5 +7,6 @@ print(nome.upper())
 print(nome.lower())
 print(len(nome))
 print(len(primeironome))
+a
 
 
